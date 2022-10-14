@@ -1,0 +1,16 @@
+input{
+    /* border:none; */
+    margin-left: 2%;
+}
+.conteudo{
+    width: 50%;
+    height: 50%;
+    background-color: azure;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+label{
+    text-align: center;
+    color: black;
+    margin-left: 1%;
+}
